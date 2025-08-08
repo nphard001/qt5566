@@ -1,13 +1,12 @@
 # qt5566
 
-Posts on Threads.
-
-個人在 Threads 平台上的發表整理。
-
-🐧
+個人在 Threads 平台上的發表整理。 🐧
 ```
 【作者：吳海韜｜Qt Wu （Ｑ-踢-悟）｜Threads 脆 @qt5566】
 ```
+
+- [qt5566 (threads.com)](https://www.threads.com/@qt5566)
+- [nphard001 (github.com)](https://github.com/nphard001)
 
 ***
 
