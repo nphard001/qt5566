@@ -17,6 +17,10 @@
 - [關於 Claude 訂閱制計費規則(1)](https://www.threads.com/@qt5566/post/DMHWFIKyfd6?xmt=AQF0xiR3xyamZ9DEXX4GoN9o6qYy0Apj9eUpT8FaXfuiGQ)
 - [關於 Claude 訂閱制計費規則(2)](https://www.threads.com/@qt5566/post/DMPb_1ayvAl?xmt=AQF0xiR3xyamZ9DEXX4GoN9o6qYy0Apj9eUpT8FaXfuiGQ)
 
+### Others
+
+- [關於ClaudeCode裝了MCP變虛擬寵物那些事](https://www.threads.com/@qt5566/post/DMkUkLNydUZ?xmt=AQF0xiR3xyamZ9DEXX4GoN9o6qYy0Apj9eUpT8FaXfuiGQ)
+
 ***
 
 ## OpenAI (ChatGPT/Codex/o3)
